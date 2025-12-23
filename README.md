@@ -4,14 +4,14 @@ Un paquete para jugar lo primeros 4 juegos de Sonic de forma facil
 Contenido que se espera
 -Los 4 primeros juegos de Sonic 
 (0.1)
--Menu parecido a Origins(0.2 o 0.3)
+-Menu parecido a Origins(0.?)
 -Sonic,Tails y Knuckles Jugables
 en cada juego (0.1)
 ----------------------------
 Añadidos de Plus
 -Amy rose jugable en los 4 juegos (0.1)
 -Knuckles en Sonic CD(0.1)
--OST De cada Juego(0.1)
+-OST De cada Juego(0.?)
 -Juegos de Game gear (0.2)
 -Galeria(???)
 ----------------------------
